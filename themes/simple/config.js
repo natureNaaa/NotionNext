@@ -18,5 +18,6 @@ const CONFIG = {
   SIMPLE_MENU_TAG: false, // 显示标签
   SIMPLE_MENU_ARCHIVE: false, // 显示归档
   SIMPLE_MENU_SEARCH: false // 显示搜索
+  SIMPLE_MENU_HOME: ture // 自己添加的内容 
 }
 export default CONFIG
